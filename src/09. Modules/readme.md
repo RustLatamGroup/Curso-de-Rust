@@ -1,29 +1,27 @@
 # 09. Modulos
 
-## Rust Standard Library y Preludio
+## [Rust Standard Library y Preludio](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Rust-Standard-Library-and-Preludio)
 
-## Standard input
+## [Standard input](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Standard-Input)
 
-## Parse string
+## [Parse string](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Parse-String)
 
-## Crates
+## [Crates](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Crates)
 
-## The module system
+## [The module system](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/The-Module-System)
 
-## Packages vs. Crates
+## [Packages vs. Crates](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Packages-vs-Crates)
 
-## Defining modules
+## [Defining modules](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Definig-Modules)
 
-## Absolute vs. relative path
+## [Absolute vs. relative path](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Absolute-vs-Relative-Path)
 
-## Public modules
+## [Public modules](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Public-Modules)
 
-## Public structs and enums
+## [Public structs and enums](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Public-Structs-and-Enums)
 
-## Bringing paths into scope
+## [Bringing paths into scope](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/Bringing-Paths-into-Scope)
 
-## Using exteral crates
+## [Separating modules into multiple files](https://github.com/RustLatamGroup/Curso-de-Rust/tree/development/src/09.%20Modules/Separating-Modules-into-Multiple-Files)
 
-## Separating modules into multiple files
-
-## Desafío: Organizing a project
+## [Desafío: Organizing a project](https://github.com/RustLatamGroup/Curso-de-Rust/tree/development/src/09.%20Modules/Desafio-Organizing-a-Project)
