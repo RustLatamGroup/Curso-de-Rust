@@ -18,9 +18,9 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 #### <a href="https://discord.gg/n9Zu4Xmern"><img alt="Discord" width="64px" src="https://img.icons8.com/cute-clipart/64/null/discord-logo.png"/></a>
 
 <hr>
-<h2 align="center"> Tabla de Contenido  </h2>
+<h2 align="start"> Tabla de Contenido  </h2>
 
-<p align="center">
+<p align="start">
 <img  src="https://res.cloudinary.com/lenobit/image/upload/v1669144297/Rust%20Essential%20Training/assets/Cover-Dark_kv7fhd.png">
 </p>
 <hr/>
