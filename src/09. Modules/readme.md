@@ -140,7 +140,7 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058247325472006235)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/development/src/09.%20Modules/separating_modules_into_multiple_files)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/separating_modules_into_multiple_files)
 
 <hr>
 
@@ -152,6 +152,6 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058247423065071707)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/development/src/09.%20Modules/desafio_organizing_a_project)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules/desafio_organizing_a_project)
 
 <hr>
