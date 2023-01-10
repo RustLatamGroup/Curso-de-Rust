@@ -1,0 +1,1 @@
+D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\char_data_types\target\debug\char_data_types.exe: D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\char_data_types\src\main.rs

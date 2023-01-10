@@ -1,5 +1,5 @@
 [package]
-name = "Packages-vs-Crates"
+name = "packages_vs_crates"
 version = "0.1.0"
 edition = "2021"
 

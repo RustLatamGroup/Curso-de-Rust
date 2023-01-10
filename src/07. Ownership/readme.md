@@ -1,15 +1,15 @@
 # 07. Ownership
 
-## Alcance de una variable
+## Variable Scope
 
-## Sombreado de una variable
+## Shadowing variables
 
-## Memoria Stack y Heap
+## Stack & Heap Memory
 
-## Tipo de dato String
+## String Data Type
 
 ## Ownership
 
-## Movinendo, Clonando y Copiando datos
+## Copy&Clone Data
 
-## Transferiendo Propiedad
+## Transferring Ownership

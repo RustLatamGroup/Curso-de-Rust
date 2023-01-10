@@ -1,5 +1,5 @@
 [package]
-name = "Standard-Input"
+name = "standard_input"
 version = "0.1.0"
 edition = "2021"
 

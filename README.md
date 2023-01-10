@@ -39,77 +39,77 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Añadiendo comentarios
 - Construyendo un programa usando Cargo
 
-### [3. Tipo de Datos Primitivos](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/03.%20Primitive%20data%20Types)
+### [3. Primitive Data Types](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/03.%20Primitive%20Data%20Types)
 
-- Tipos de datos enteros
-- Tipos de datos punto-flotantes
-- Operaciones Aritmeticas
-- Formato de declaraciones de impresión
-- Operaciones Bit a Bit
-- Operaciones y Tipos de datos Booleanos
-- Operaciones de comparación
-- Tipos de datos Char
+- Declaring Variables
+- Integer Data Types
+- Floating-Point Data Type
+- Arithmetic Operations
+- Formatting Print Statements
+- Bitwise Operations
+- Boolean Data Type and Operations
+- Comparison Operations
+- Char Data Types
+- Challenge Find The Average
 
-### [4. Tipos de Datos Compuestos](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/04.%20Compound%20Data%20Types)
+### [4. Compound Data Types](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/04.%20Compound%20Data%20Types)
 
 - Arrays
 - Arrays Multidimensional
-- Tuplas
-- Tipos Punteros
-- Arrays, Vectores y Slices
-- Tipo String
-- Tipo Aliases
+- Tuples
 
-### [5. Funciones](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions)
+### [5. Functions](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions)
 
-- Parámetros de una función
-- Expresiones vs. Declaraciones
-- Valores de retorno de una función
+- Function Parameters
+- Statements vs. Expressions
+- Function Return Values
+- Challenge Convert Temperature
 
-### [6. Control de Flujo del Programa](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/06.%20Program%20Flow%20Control)
+### [6. Program Flow Control](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/06.%20Program%20Flow%20Control)
 
-- Ejecución Condicional
-- Múltiples Condiciones
-- Asignación Condicional
+- Conditional Execution
+- Multiple Conditions
+- Conditional Assignment
 - Loops
 - while Loops
 - For Loops
 - Nested Loops
+- Challenge Max-Min-Mean
 
 ### [7. Ownership](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/07.%20Ownership)
 
-- Alcance de una variable
-- Sombreado de una variable ó Shadowing
-- Memoria Stack y Heap
-- Tipo de dato String
+- Variable Scope
+- Shadowing variables
+- Stack & Heap Memory
+- String Data Type
 - Ownership
-- Movinendo, Clonando y Copiando datos
-- Transferiendo propiedad
+- Copy&Clone Data
+- Transferring Ownership
 
-### [8. Referencias](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/08.%20References)
+### [8. References](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/08.%20References)
 
-- Referencia prestada ó Borrowing
-- Referencia mutable
-- Referencias colgantes
+- Borrowing References
+- Mutable References
+- Dangling References
 - Slices
-- Slices como parámetro de un función
-- Desafío
+- Slices as Function Parameters
+- Challenge Trim Spaces
 
 ### [9. Modulos](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/09.%20Modules)
 
-- Rust Standard Library y Preludio
+- Rust Standard Library and Prelude
 - Standard input
 - Parse string
 - Crates
-- The module system
+- The Module System
 - Packages vs. Crates
-- Defining modules
-- Absolute vs. relative path
-- Public modules
-- Public structs and enums
-- Bringing paths into scope
-- Separating modules into multiple files
-- Desafío: Organizing a project
+- Defining Modules
+- Absolute vs. Relative Path
+- Public Modules
+- Public Structs and Enums
+- Bringing Paths Into Scope
+- Separating Modules Into Multiple Files
+- Challenge Organize a Project
 
 ### [10. Input and Output](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/10.%20Input%20and%20Output)
 
@@ -124,18 +124,16 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Struct methods
 - Associated functions
 - Tuple structs
-- Desafío
+- Challenge
 
-### [12. Tipos Genéricos](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/12.%20Generic%20Types)
+### [12. Generic Types](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/12.%20Generic%20Types)
 
-- Definición de una estructura genérica
-- Definición de un método genérico
-- Definición de una función genérica
-- Punteros Inteligentes
-  - Box data type
-  - RC data type
-  - Arc data type
-- Desafío Box Smart Pointer
+- Generic Struct Definitions
+- Generic Method Definitions
+- Generic Function Definitions
+- Box Data Type
+- RC Data Type
+- Challenge Box Smart Pointer
 
 ### [13. Traits](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/13.%20Traits)
 
@@ -145,7 +143,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Trait bounds
 - Multiple trait bounds
 - Return types with implemented traits
-- Desafío
+- Challenge
 
 ### [14. Lifetimes](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/14.%20Lifetimes)
 

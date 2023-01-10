@@ -1,0 +1,1 @@
+D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\arithmetic_operations\target\debug\arithmetic_operations.exe: D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\arithmetic_operations\src\main.rs

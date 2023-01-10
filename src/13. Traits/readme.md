@@ -12,4 +12,4 @@
 
 ## Return types with implemented traits
 
-## Desafío
+## Challenge

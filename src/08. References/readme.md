@@ -1,13 +1,13 @@
-# 08. Referencias
+# 08. References
 
-## Referencia prenstada
+## Borrowing References
 
-## Referencia mutable
+## Mutable References
 
-## Referencias colgantes
+## Dangling References
 
 ## Slices
 
-## Slices como parámetro de un función
+## Slices as Function Parameters
 
-## Desafío
+## Challenge Trim Spaces

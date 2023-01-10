@@ -1,7 +1,9 @@
-# 05. Funciones
+# 05. Functions
 
-## Parámetros de una función
+## Function Parameters
 
-## Expresiones vs. Declaraciones
+## Statements vs. Expressions
 
-## Valores de retorno de una función
+## Function Return Values
+
+## Challenge Convert Temperature

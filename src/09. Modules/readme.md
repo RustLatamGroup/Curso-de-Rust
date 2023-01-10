@@ -1,9 +1,9 @@
-## 09. Modulos
+## 09. Modules
 
 ### Rust Standard Library and Prelude
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/01_lbf8ae.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/01_g1j8xj.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058199725146386463)
@@ -15,7 +15,7 @@
 ### Standard Input
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/02_y7rhsl.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/02_m9gina.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058199786026704978)
@@ -27,7 +27,7 @@
 ### Parse String
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279011/Rust%20Essential%20Training/03_kyrwnn.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/03_re1kl9.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058200473695420497)
@@ -39,7 +39,7 @@
 ### Crates
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279011/Rust%20Essential%20Training/04_gh9vwx.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/04_sc7nt8.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058203055453114388)
@@ -51,7 +51,7 @@
 ### The Module System
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279011/Rust%20Essential%20Training/05_inxdn9.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/05_bi4opq.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058206149511479356)
@@ -63,7 +63,7 @@
 ### Packages vs. Crates
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279011/Rust%20Essential%20Training/06_vg78tx.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/06_v3fq5y.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058212610174095420)
@@ -75,7 +75,7 @@
 ### Defining Modules
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/07_knidp3.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369559/Rust%20Essential%20Training/09%20Modules/07_kqneql.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058215313377874020)
@@ -87,7 +87,7 @@
 ### Absolute vs. Relative Path
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/08_bgwr12.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/08_w5creg.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058232598175940671)
@@ -99,7 +99,7 @@
 ### Public Modules
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/09_b0yqyq.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/09_ab7nnc.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058234145404362792)
@@ -111,7 +111,7 @@
 ### Public Structs and Enums
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/10_ed8dqs.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/10_fx5ind.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058246409595408476)
@@ -123,7 +123,7 @@
 ### Bringing Paths Into Scope
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279012/Rust%20Essential%20Training/11_rz3tj1.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/11_qpze3n.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058246932910329916)
@@ -135,7 +135,7 @@
 ### Separating modules into multiple files
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279013/Rust%20Essential%20Training/12_ffccnl.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369560/Rust%20Essential%20Training/09%20Modules/12_jva4se.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058247325472006235)
@@ -144,10 +144,10 @@
 
 <hr>
 
-### Challenge: Organizing a Project
+### Challenge Organizing a Project
 
 <p align="start">
-<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673279013/Rust%20Essential%20Training/13_onemzk.png">
+<img  src="https://res.cloudinary.com/rustlatamgroup/image/upload/v1673369561/Rust%20Essential%20Training/09%20Modules/13_wt5zfw.png">
 </p>
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319580139266068/1058247423065071707)

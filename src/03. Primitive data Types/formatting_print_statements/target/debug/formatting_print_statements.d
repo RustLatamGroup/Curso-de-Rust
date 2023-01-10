@@ -1,0 +1,1 @@
+D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\formatting_print_statements\target\debug\formatting_print_statements.exe: D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\formatting_print_statements\src\main.rs
