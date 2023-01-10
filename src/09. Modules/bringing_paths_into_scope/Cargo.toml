@@ -1,5 +1,5 @@
 [package]
-name = "Bringing-Paths-into-Scope"
+name = "bringing_paths_into_scope"
 version = "0.1.0"
 edition = "2021"
 

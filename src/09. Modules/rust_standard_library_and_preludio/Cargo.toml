@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Standard-Library-and-Preludio"
+name = "rust_standard_library_and_preludio"
 version = "0.1.0"
 edition = "2021"
 

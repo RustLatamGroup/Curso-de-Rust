@@ -1,11 +1,13 @@
-# 12. Tipos Genéricos
+# 12. Generic Types
 
-## Definición de una estructura genérica
+## Generic Struct Definitions
 
-## Definición de un método genérico
+## Generic Method Definitions
 
-## Definición de una función genérica
+## Generic Function Definitions
 
-## Punteros Inteligentes Box, RC y Arc
+## Box Data Type
 
-## Desafío Box Smart Pointer
+## RC Data Type
+
+## Challenge Box Smart Pointer

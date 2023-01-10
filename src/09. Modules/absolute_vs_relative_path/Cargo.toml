@@ -1,5 +1,5 @@
 [package]
-name = "Absolute-vs-Relative-Path"
+name = "absolute_vs_relative_path"
 version = "0.1.0"
 edition = "2021"
 

@@ -1,5 +1,5 @@
 [package]
-name = "Public-Structs-and-Enums"
+name = "public_structs_and_enums"
 version = "0.1.0"
 edition = "2021"
 

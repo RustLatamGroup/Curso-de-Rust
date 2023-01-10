@@ -1,10 +1,10 @@
-# 06. Control de Flujo del Programa
+# 06. Program Flow Control
 
-## Ejecución Condicional
+## Conditional Execution
 
-## Múltiples Condiciones
+## Multiple Conditions
 
-## Asignación Condicional
+## Conditional Assignment
 
 ## Loops
 
@@ -13,3 +13,5 @@
 ## For Loops
 
 ## Nested Loops
+
+## Challenge Max-Min-Mean

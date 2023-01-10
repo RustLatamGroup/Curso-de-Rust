@@ -1,15 +1,7 @@
-# 04. Tipos de Datos Compuestos
+# 04. Compound Data Types
 
 # Arrays
 
 # Arrays Multidimensional
 
-# Tuplas
-
-# Tipos Punteros
-
-# Arrays, Vectores y Slices
-
-# Tipo String
-
-# Tipo Aliases
+# Tuples

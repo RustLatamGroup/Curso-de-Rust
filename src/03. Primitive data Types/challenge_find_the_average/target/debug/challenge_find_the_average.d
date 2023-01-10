@@ -1,0 +1,1 @@
+D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\challenge_find_the_average\target\debug\challenge_find_the_average.exe: D:\2.\ Devops\Rust\ Latam\ Group-fork\Curso-de-Rust\src\03.\ Primitive\ Data\ Types\challenge_find_the_average\src\main.rs

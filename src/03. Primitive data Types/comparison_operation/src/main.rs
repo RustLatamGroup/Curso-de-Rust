@@ -8,6 +8,4 @@ fn main() {
     println!("a GREATER THAN OR EQUAL TO b is {}", a >= b);
     println!("a LESS THAN b is {}", a < b);
     println!("a LESS THAN OR EQUALS to b is {}", a <= b);
-
-
 }
