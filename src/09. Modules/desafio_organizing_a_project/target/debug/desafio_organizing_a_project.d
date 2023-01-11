@@ -1,1 +1,0 @@
-D:\2.\ Devops\Rust\ Latam\ Group\Curso-de-Rust\src\09.\ Modules\desafio_organizing_a_project\target\debug\desafio_organizing_a_project.exe: D:\2.\ Devops\Rust\ Latam\ Group\Curso-de-Rust\src\09.\ Modules\desafio_organizing_a_project\src\main.rs D:\2.\ Devops\Rust\ Latam\ Group\Curso-de-Rust\src\09.\ Modules\desafio_organizing_a_project\src\shapes.rs
