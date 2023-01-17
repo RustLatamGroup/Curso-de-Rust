@@ -1,5 +1,5 @@
 # 11. Structs
-
+ 
 ## Defining structs
 
 ## Struct update syntax
