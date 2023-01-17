@@ -4,6 +4,6 @@
 	"image": "mcr.microsoft.com/devcontainers/rust:0-1-bullseye",
 	"extensions": [
 		"rust-lang.rust-analyzer",
-    "PKief.material-icon-theme"
+    	"PKief.material-icon-theme"
 	]
 }
