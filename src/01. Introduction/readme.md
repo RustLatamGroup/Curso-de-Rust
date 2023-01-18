@@ -6,4 +6,4 @@
 
 ## Qué es Rust?
 
-## Versiones de Rust
+## Versiones de Rust 
