@@ -147,22 +147,22 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 ### [14. Lifetimes](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/14.%20Lifetimes)
 
-- The borrow checker
-- Lifetime annotation syntax
-- Multiple lifetime annotations
-- Lifetime elision rules
-- Struct lifetime annotations
-- Static lifetime
+- The Borrow Checker
+- Lifetime Annotation Syntax
+- Multiple Lifetime Annotations
+- Lifetime Elision Rules
+- Struct Lifetime Annotations
+- Static Lifetime
 
 ### [15. Enums and Patterns](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/15.%20Enums%20and%20Patterns)
 
-- Define enums
-- Match operator
-- Match with default placeholder
-- Enum methods
-- Option<T> enum
+- Define Enums
+- Match Operator
+- Match with Default Placeholder
+- Enum Methods
+- Option<T> Enum
 - Matching Option<T>
-- if-let syntax
+- if-let Syntax
 
 ### [16. Error Handling](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/16.%20Error%20Handling)
 
