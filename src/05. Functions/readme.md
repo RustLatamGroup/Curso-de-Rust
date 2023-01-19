@@ -8,7 +8,7 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057785522036162620/1060713973961461830)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Funtions/function_parameteres)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions/function_parameteres)
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057785522036162620/1061024577712570440)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Funtions/statements_vs_expressions)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions/statements_vs_expressions)
 
 <hr>
 
@@ -32,7 +32,7 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057785522036162620/1061024849331486791)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Funtions/function_return_values)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions/function_return_values)
 
 <hr>
 
@@ -44,6 +44,6 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057785522036162620/1061024996132130837)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Funtions/challenge_convert_temperature)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/05.%20Functions/challenge_convert_temperature)
 
 <hr>
