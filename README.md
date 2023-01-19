@@ -154,7 +154,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Struct Lifetime Annotations
 - Static Lifetime
 
-### [15. Enums and Patterns](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/15.%20Enums%20and%20Patterns)
+### [15. Enums](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/15.%20Enums)
 
 - Define Enums
 - Match Operator

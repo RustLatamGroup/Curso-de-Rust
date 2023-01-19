@@ -56,7 +56,7 @@
 
 ##### Ver: [video](https://discord.com/channels/1057309286654554173/1057319370264690760/1061080607087661056)
 
-##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/07.%20Ownership/owership)
+##### Ver: [code](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/07.%20Ownership/ownership)
 
 <hr>
 

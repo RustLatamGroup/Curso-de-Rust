@@ -1,4 +1,4 @@
-## 15. Enums and Patterns
+## 15. Enums
 
 ### Define Enums
 
