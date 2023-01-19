@@ -163,40 +163,16 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Option<T> Enum
 - Matching Option<T>
 - if-let Syntax
+- Challenge Represent a Location
 
 ### [16. Error Handling](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/16.%20Error%20Handling)
 
 - Unrecoverable errors
-- Result<T,E> enum
-- Matching Result<T,E> to recover from errrors
-- Propagating erros
+- Result<T,E> Enum
+- Matching Result<T,E> to Recover from Errors
+- Propagating Errors
 
-### [17. Operador Overload](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/17.%20Operator%20Overloading)
-
-- Arithmetic and Bitwise operators
-- Equivalence Comparisons
-- Ordered Comparisons
-- Index and IndexMut
-- Other Operators
-
-### [18. Closures](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/18.%20Closures)
-
-- Capturing Variables
-- Function and Closure types
-- Closure Performance
-- Closure and Safety
-- Callbacks
-- Using Closures Effectively
-
-### [19. Iterators](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/19.%20Iterators)
-
-- The Iterator and IntoIterator Traits
-- Creating Iterators
-- Iterator Adapters
-- Consuming Iterators
-- Implementing Your Own Iterators
-
-### [20. Collections](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/20.%20Collections)
+### [17. Collections](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/20.%20Collections)
 
 - Overview
 - Vec<T>
@@ -206,6 +182,31 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - HashSet<T> and BTreeSet<T>
 - Hashing
 - Beyond the Standard Collections
+
+### [18. Operador Overload](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/17.%20Operator%20Overloading)
+
+- Arithmetic and Bitwise operators
+- Equivalence Comparisons
+- Ordered Comparisons
+- Index and IndexMut
+- Other Operators
+
+### [19. Closures](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/18.%20Closures)
+
+- Capturing Variables
+- Function and Closure types
+- Closure Performance
+- Closure and Safety
+- Callbacks
+- Using Closures Effectively
+
+### [20. Iterators](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/19.%20Iterators)
+
+- The Iterator and IntoIterator Traits
+- Creating Iterators
+- Iterator Adapters
+- Consuming Iterators
+- Implementing Your Own Iterators
 
 ### [21. String & Text](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/21.%20String%20%26%20Text)
 
