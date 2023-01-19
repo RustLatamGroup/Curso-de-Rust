@@ -1,5 +1,5 @@
 [package]
-name = "challenge"
+name = "challenge_box_smart_pointer"
 version = "0.1.0"
 edition = "2021"
 

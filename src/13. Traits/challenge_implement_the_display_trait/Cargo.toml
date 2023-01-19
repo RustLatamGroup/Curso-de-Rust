@@ -1,5 +1,5 @@
 [package]
-name = "challenge"
+name = "challenge_implement_the_display_trait"
 version = "0.1.0"
 edition = "2021"
 

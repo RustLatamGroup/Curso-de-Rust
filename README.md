@@ -79,11 +79,11 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 ### [7. Ownership](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/07.%20Ownership)
 
 - Variable Scope
-- Shadowing variables
-- Stack & Heap Memory
+- Shadowing Variables
+- Stack and Heap Memory
 - String Data Type
 - Ownership
-- Copy&Clone Data
+- Copy and Clone Data
 - Transferring Ownership
 
 ### [8. References](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/08.%20References)
@@ -119,12 +119,12 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 ### [11. Structs](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/11.%20Structs)
 
-- Defining structs
-- Struct update syntax
-- Struct methods
-- Associated functions
-- Tuple structs
-- Challenge
+- Defining Structs
+- Struct Update Syntax
+- Struct Methods
+- Associated Functions
+- Tuple Structs
+- Challenge Represent Shapes
 
 ### [12. Generic Types](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/12.%20Generic%20Types)
 
@@ -137,13 +137,13 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 ### [13. Traits](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/13.%20Traits)
 
-- Implement traits
-- Default trait implementation
-- Derive traits
-- Trait bounds
-- Multiple trait bounds
-- Return types with implemented traits
-- Challenge
+- Implement Traits
+- Default Trait Implementation
+- Derive Traits
+- Trait Bounds
+- Multiple Trait Bounds
+- Return Types with Implemented Traits
+- Challenge Implement The Display Trait
 
 ### [14. Lifetimes](https://github.com/RustLatamGroup/Curso-de-Rust/tree/main/src/14.%20Lifetimes)
 
