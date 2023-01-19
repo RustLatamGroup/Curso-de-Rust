@@ -1,5 +1,5 @@
 [package]
-name = "copy_clone_data"
+name = "stack_and_heap_memory"
 version = "0.1.0"
 edition = "2021"
 
